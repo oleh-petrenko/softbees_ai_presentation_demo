@@ -1,6 +1,6 @@
 # ai_presentation_demo
 
-A new Flutter project.
+Demo project about leveraging AI tools in front-end development (Flutter).
 
 ## Getting Started
 
