@@ -1,0 +1,11 @@
+Create a screen in Flutter. Demands:
+
+- name text field
+- surname text field
+- submit button. When tapping button validation of the fields should be launched. Validation
+must be implemented via regular expression
+
+Validation demands:
+
+- name text field: only latin letters, min: 2, max: 30
+- surname text field: only latin letters, min: 2, max: 30
