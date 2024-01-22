@@ -2,9 +2,9 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'user.dart';
 
-///Task #1: Understanding runtime errors. Moreover, provide context-aware suggestions
+///Task #1: Understanding runtime errors. Moreover
 ///
-/// AI request: what's wrong with code below?
+/// AI request: what's wrong with code below? Provide context-aware suggestions
 
 class UserRepository {
   Future<List<UserImpl>> getUsers() async {

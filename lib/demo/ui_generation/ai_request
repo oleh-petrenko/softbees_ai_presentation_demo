@@ -2,6 +2,7 @@ Create a screen in Flutter. Demands:
 
 - name text field
 - surname text field
+- vertical space between elements in form should be 16 pixels
 - submit button. When tapping button validation of the fields should be launched. Validation
 must be implemented via regular expression
 
